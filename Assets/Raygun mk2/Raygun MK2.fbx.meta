@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: dd3e5c2d8219e914ca346dc04ed3488f
+timeCreated: 1536129407
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Joints
+    100002: //RootNode
+    100004: tag_battery01_animate
+    100006: tag_battery02_animate
+    100008: tag_battery03_animate
+    100010: tag_battery_new_animate
+    100012: tag_battery_used_animate
+    100014: tag_bolt_animate
+    100016: tag_brass
+    100018: tag_clip
+    100020: tag_fin_animate
+    100022: tag_fin_cover_animate
+    100024: tag_flap_front_animate
+    100026: tag_flap_rear_animate
+    100028: tag_flash
+    100030: tag_gear_animate
+    100032: tag_weapon
+    100034: wpn_t7_zmb_hd_raygun_mk2_view_LOD1
+    100036: WraithMesh_36522419_00
+    100038: WraithMesh_36522419_01
+    100040: WraithMesh_36522419_02
+    100042: WraithMesh_36522419_03
+    100044: WraithMesh_36522419_04
+    100046: WraithMesh_36522419_05
+    400000: Joints
+    400002: //RootNode
+    400004: tag_battery01_animate
+    400006: tag_battery02_animate
+    400008: tag_battery03_animate
+    400010: tag_battery_new_animate
+    400012: tag_battery_used_animate
+    400014: tag_bolt_animate
+    400016: tag_brass
+    400018: tag_clip
+    400020: tag_fin_animate
+    400022: tag_fin_cover_animate
+    400024: tag_flap_front_animate
+    400026: tag_flap_rear_animate
+    400028: tag_flash
+    400030: tag_gear_animate
+    400032: tag_weapon
+    400034: wpn_t7_zmb_hd_raygun_mk2_view_LOD1
+    400036: WraithMesh_36522419_00
+    400038: WraithMesh_36522419_01
+    400040: WraithMesh_36522419_02
+    400042: WraithMesh_36522419_03
+    400044: WraithMesh_36522419_04
+    400046: WraithMesh_36522419_05
+    4300000: WraithMesh_36522419_00
+    4300002: WraithMesh_36522419_01
+    4300004: WraithMesh_36522419_02
+    4300006: WraithMesh_36522419_03
+    4300008: WraithMesh_36522419_04
+    4300010: WraithMesh_36522419_05
+    9500000: //RootNode
+    13700000: WraithMesh_36522419_00
+    13700002: WraithMesh_36522419_01
+    13700004: WraithMesh_36522419_02
+    13700006: WraithMesh_36522419_03
+    13700008: WraithMesh_36522419_04
+    13700010: WraithMesh_36522419_05
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
